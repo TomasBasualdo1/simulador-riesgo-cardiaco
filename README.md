@@ -4,7 +4,7 @@ Este proyecto es una aplicación web interactiva que utiliza un modelo de Machin
 
 ## Demo en Vivo
 
-[**Ver aplicación en funcionamiento**](https://tu-app-name.streamlit.app) _(Disponible después del deploy)_
+[**Ver aplicación en funcionamiento**](https://simulador-riesgo-cardiaco-6k5gb89zrwnxyamu3zgdjj.streamlit.app/)
 
 ## Características
 
