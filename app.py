@@ -6,7 +6,7 @@ import joblib
 
 st.set_page_config(
     page_title="Simulador de Riesgo Cardíaco",
-    page_icon="❤️",
+    page_icon=":heartbeat:",
     layout="centered"
 )
 
